@@ -1,12 +1,13 @@
 # ctrlaltdel
 
 > Utility to control what happens when CTRL+ALT+DEL is pressed.
+> More information: <https://manned.org/ctrlaltdel>.
 
 - Get current setting:
 
 `ctrlaltdel`
 
-- Set CRTL+ALT+DEL to reboot immediately, without any preparation:
+- Set CTRL+ALT+DEL to reboot immediately, without any preparation:
 
 `sudo ctrlaltdel hard`
 
